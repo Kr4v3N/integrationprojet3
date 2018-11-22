@@ -18,7 +18,7 @@ Highcharts.chart('containerJs', {
         text: 'Nombre de visiteurs dans l\'année',
         style: {
                 color: "#fff",
-                fontSize: "33px",
+                fontSize: "30px",
                 fontStyle: "normal"
             }
         },
@@ -37,7 +37,7 @@ Highcharts.chart('containerJs', {
             text: 'Visiteurs',
             style: {
                 color: "#fff",
-                fontSize: "33px",
+                fontSize: "30px",
                 fontStyle: "normal"
             }
         },
