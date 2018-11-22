@@ -25,8 +25,10 @@ Highcharts.chart('container', {
 
     xAxis: {
 
-        categories: ['Janvier', 'Février', 'Mars', 'Avril', 'Mai', 'Juin',
-            'Juillet', 'Août', 'Septembre', 'Octobre', 'Novembre', 'Décembre'],
+        categories: ['Janvier', 'Février',
+            'Mars', 'Avril', 'Mai', 'Juin',
+            'Juillet', 'Août', 'Septembre',
+            'Octobre', 'Novembre', 'Décembre'],
 
     },
 
